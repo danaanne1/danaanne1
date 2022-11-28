@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danaanne1
 - 👀 I’m interested in Music, Motorcycles, Mayhem, Madness
-- 🌱 I’m currently learning how not to be a jerk.
-- 💞️ I’m looking to collaborate on Grid, AI, and Market
+- 🌱 I’m currently learning how to build a self driving 1/32 scale car.
+- 💞️ I’m looking to collaborate on Grid, AI, Market, and MRR
 - 📫 How to reach me danaanne1@gmail.com
 
 <!---
